@@ -16,9 +16,11 @@ All of the files needed for this practical are located in the Teams files for th
 If you're here, then it sounds like you've completed problem 1!
 
 ## Problem 2: Cloning a repository
+Start here for this problem! Click on "Code," then copy the link
 
 ## Problem 3: Editing a .gitignore
+Select the .gitignore file, then the pencil icon to make edits. Remember to make your edits below line 14
 
 ## Problem 4: Editing README.md
-Here is a useful resource on editing markdown files like this [README](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings).
+Here is a useful resource on editing markdown files like this one [README](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings). 
 
