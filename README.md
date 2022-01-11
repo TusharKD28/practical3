@@ -8,9 +8,20 @@ In this practical, we will review some basics for using GitHub for version contr
 As this is our final session, we won’t have another opportunity to review this practical as a group. However, I am happy to answer questions via email (J.Meisner@cgiar.org). 
 
 All of the files needed for this practical are located in the Teams files for this webinar, and in this Dropbox link. They are:
-- Item 1
-- Item 2
-
+- Root folder:
+  - Master.do (a Stata do file)
+- documentation folder:
+  - codebook_templatev1.xlsx
+  - codebook_templatev2.xlsxs
+- data folder: 
+  - data.xlsx (ODK data)
+- do_files folder:
+  - labeling_1.do (a Stata do file)
+  - labeling_2.do (a Stata do file)
+  - template_1.do (a Stata do file)
+  - template_2.do (a Stata do file)
+- questionnaire folder:
+  - survey.xlsx (an ODK survey)
 
 ## Problem 1: Getting set up in GitHub and GitHub Desktop
 If you're here, then it sounds like you've completed problem 1!
